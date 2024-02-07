@@ -9,7 +9,7 @@ This repo was made as a teaching tool for a lesson in Quinnipiac's Open-Source D
 
 ## How to set this project up?
 
-Project was written in Node.
+Project was written in Python.
 Recommend Python version 3.10, but this project is simple enough where any version >= 3.8 should reasonably work without issue.
 
 - Clone project
