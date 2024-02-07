@@ -29,6 +29,7 @@ API_KEY=your-token-here
 
 ## How to run this project?
 
-Use the command `python ./src/main.py` to run the project.
+Use the command `python ./src/main.py` to run the project. 
+Don't forget to activate your virtual environment beforehand!
 If it ran successfully, you should output containing a list of animal names from the API that have "cat" somewhere in their name.
 
